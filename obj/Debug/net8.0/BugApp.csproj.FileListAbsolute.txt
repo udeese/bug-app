@@ -1,0 +1,7 @@
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.AssemblyInfoInputs.cache
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.AssemblyInfo.cs
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.csproj.CoreCompileInputs.cache
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.RazorAssemblyInfo.cache
+C:\Users\udees\BugApp\obj\Debug\net8.0\BugApp.RazorAssemblyInfo.cs
