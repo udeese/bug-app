@@ -18,12 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\udees\BugApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/udees/BugApp/Views/Bugs/BugPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xCdWdQYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/udees/BugApp/Views/Home/Bugs/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdWdzXEluZGV4LmNzaHRtbA==
+[C:/Users/udees/BugApp/Views/Bugs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/udees/BugApp/Views/Home/Index.cshtml]
